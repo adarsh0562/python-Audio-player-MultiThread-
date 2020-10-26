@@ -1,16 +1,4 @@
-# Note- in this code play button will work play music
-# only for one time after that play with duble click or using popup
-"""
-Task1: Select folder - Solved
-Task2: Same file not exits - Solved
-Task3: Same file but Directory change - Solved
-Task4: Backward - Solved
-Task5: Play/Pause issue - Solve
-Task6: Progress bar color change - Solved
-Task7:  UI Formatting - solved
-Task8: Background Color change apply with Style function - Solved
 
-"""
 
 import os
 import threading
